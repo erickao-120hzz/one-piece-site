@@ -52,14 +52,14 @@ Uso de reset.css para manter consistência visual entre navegadores
 Curtiu o projeto ou tem alguma ideia de melhoria? Me manda um e-mail ou me adicione no discord, vou gostar de ouvir!
 
  E-mail: **erickcarvalho661@hotmail.com**
+ 
+ ---
+
  Discord: **erickzdv.exe**
 
-## Créditos
+---
 
-<<<<<<< HEAD
-## 🏴‍☠️ Créditos
-=======
->>>>>>> ee950ab (Adicionado nome do discord e retirado emoji)
+##  Créditos
 Feito com carinho por Erick (@erickao-120hzz)
 Inspirado no mundo de One Piece, criado por Eiichiro Oda.
 
