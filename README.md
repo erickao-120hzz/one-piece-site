@@ -1,4 +1,4 @@
-# 🌊 Projeto One Piece - Site Responsivo
+#  Projeto One Piece - Site Responsivo
 
 Um site inspirado no universo de **One Piece**, criado com **HTML5**, **CSS3** e **JavaScript**, totalmente responsivo e com design estiloso. Ideal para treinar conceitos de responsividade, manipulação de DOM e estruturação de layout moderno.
 
@@ -6,13 +6,13 @@ Um site inspirado no universo de **One Piece**, criado com **HTML5**, **CSS3** e
 
 ---
 
-## 🔗 Acesse o site online:
+##  Acesse o site online:
 
-👉 [Clique aqui para ver o projeto no ar](https://erickao-120hzz.github.io/one-piece-site/)
+ [Clique aqui para ver o projeto no ar](https://erickao-120hzz.github.io/one-piece-site/)
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML5
 - CSS3 (com Reset de Estilo)
@@ -21,7 +21,7 @@ Um site inspirado no universo de **One Piece**, criado com **HTML5**, **CSS3** e
 
 ---
 
-## 📱 Funcionalidades
+##  Funcionalidades
 
 - Layout adaptável para celular, tablet e desktop
 - Navegação com botões dinâmicos
@@ -30,14 +30,15 @@ Um site inspirado no universo de **One Piece**, criado com **HTML5**, **CSS3** e
 
 ---
 
-## 💻 Como rodar localmente
+##  Como rodar localmente
 
 `
 git clone https://github.com/erickao-120hzz/one-piece-site.git
 cd one-piece-site
 abra o arquivo index.html no navegador`
 
-🧠 Aprendizados
+## Aprendizados
+
 Esse projeto foi um desafio de front-end pessoal para praticar:
 Criação de páginas responsivas
 Manipulação de classes no JS
@@ -46,13 +47,19 @@ Uso de reset.css para manter consistência visual entre navegadores
 
 ---
 
-## 🤝 Fala comigo!
+##  Fala comigo!
 
-Curtiu o projeto ou tem alguma ideia de melhoria? Me manda um e-mail, vou gostar de ouvir!
+Curtiu o projeto ou tem alguma ideia de melhoria? Me manda um e-mail ou me adicione no discord, vou gostar de ouvir!
 
-📬 **erickcarvalho661@hotmail.com**
+ E-mail: **erickcarvalho661@hotmail.com**
+ Discord: **erickzdv.exe**
 
+## Créditos
+
+<<<<<<< HEAD
 ## 🏴‍☠️ Créditos
+=======
+>>>>>>> ee950ab (Adicionado nome do discord e retirado emoji)
 Feito com carinho por Erick (@erickao-120hzz)
 Inspirado no mundo de One Piece, criado por Eiichiro Oda.
 
